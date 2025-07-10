@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 {
   "framework": "vite",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
+=======
+{
+  "framework": "vite",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+>>>>>>> edfd5a9274d9a96c3e18b5281c89f2e90dc5f0bc
 } 
